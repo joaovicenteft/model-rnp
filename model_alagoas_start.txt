@@ -1,0 +1,8 @@
+#group,false,false,true,false,true,true,true,true,true,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,double,string,string,double,double,double,double,double,double,double,double
+#default,_result,,,,,,,,,,,,,
+,result,table,_start,_value,_field,_measurement,_packetloss,_packetin,_packetout,_delay,_rtt,_trafficin,_trafficout,_size
+,,0,2020-05-15T00:00:00Z,-3.11866,latitude,maceió,10,5,30,10,1,2,3,1000
+,,0,2020-05-15T00:00:00Z,-60.0212,longitude,maceió,10,5,30,10,1,2,3,1000
+,,0,2020-05-15T00:00:00Z,-9.56911,latitude,satuba,10,5,30,10,1,2,3,10
+,,0,2020-05-15T00:00:00Z,-35.8227,longitude,satuba,10,5,30,10,1,2,3,10

@@ -1,0 +1,8 @@
+#group,false,false,false,true,true,true,true,true,true,true,true,true,true
+#datatype,string,long,double,string,string,double,double,double,double,double,double,double,double
+#default,_result,,,,,,,,,,,,
+,result,table,_value,_field,_measurement,_packetloss,_packetin,_packetout,_delay,_rtt,_trafficin,_trafficout,_size
+,,0,-3.11866,latitude,maceió,10,5,30,10,1,2,3,1000
+,,0,-60.0212,longitude,maceió,10,5,30,10,1,2,3,1000
+,,0,-9.56911,latitude,satuba,10,5,30,10,1,2,3,10
+,,0,-35.8227,longitude,satuba,10,5,30,10,1,2,3,10
